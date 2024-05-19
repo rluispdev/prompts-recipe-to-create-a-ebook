@@ -64,16 +64,16 @@ DALL-E 3：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
+## 👨‍💻 Student
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/128305083?s=96&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRafael Gonzaga<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/rluispdev">
     GitHub</a>&nbsp;|&nbsp;
