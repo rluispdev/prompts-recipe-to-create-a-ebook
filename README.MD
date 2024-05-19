@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [DALL-E 3]https://askaichat.app/payment)
+- [DALL-E 3](https://askaichat.app/payment)
 - [Keynote](https://www.apple.com/br/keynote/)
 
 ## 🧠 Prompts
